@@ -7,7 +7,7 @@ int n,nn,i,s=0;
     cin>>n;                                      
     nn=n;              
     for(i=1;i<=n/2;i++){
-    	if(n%i==0){
+    	if(n%i==0){          
     		s=s+i;
 		}
 	}
