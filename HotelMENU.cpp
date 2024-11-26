@@ -27,7 +27,7 @@ int main() {
             amt = qty * tp;
             cout << "Your total BILL is:RS " << amt<<endl;
             break;
-        }
+        }      
         case 4: {
             amt = qty * pip;
             cout << "Your total BILL is:RS " << amt<<endl;
