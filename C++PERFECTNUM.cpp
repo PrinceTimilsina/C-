@@ -4,7 +4,7 @@ int main()
 {
 int n,nn,i,s=0;      
     cout<<"Enter a number:";       
-    cin>>n;
+    cin>>n;                
     nn=n;   
     for(i=1;i<=n/2;i++){
     	if(n%i==0){
