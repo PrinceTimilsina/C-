@@ -1,4 +1,4 @@
-//----ATM Manager Project,Submitted by:Prince Timilsina to:Kewal Thanet------
+//----ATM Manager Projectby:Prince Timilsina
 //---Here in this program i am creating a ATM class with various member functions like: login,changePassword,addBalance,withdrawBalance,viewAccountInfo,logout, it is simple userfriendly ATM simulation
 #include <iostream>
 #include <string>
